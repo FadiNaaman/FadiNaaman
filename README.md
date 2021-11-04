@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @FadiNaaman
-- 👀 I’m interested enrolled at Trent University and majoring in Computer Science
-- 🌱 I’m currently learning C, C++, C#, Java, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m enrolled at Trent University and majoring in Computer Science
+- 🌱 I’m capable of coding in C, C++, C#, Java, Python
+- 📫 You can reach me by email: fadinaaman@trentu.ca
 
 <!---
 FadiNaaman/FadiNaaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
