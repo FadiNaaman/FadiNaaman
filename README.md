@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @FadiNaaman
-- 👀 I’m enrolled at Trent University and majoring in Computer Science
+- 👀 I graduated from Trent University with an HBsc in Computer Science
 - 📫 You can reach me by email: fadinaaman@trentu.ca
 
 Projects:
 
-- JARVIS A.I : https://github.com/FadiNaaman/JARVIS-AI
-- Resume Builder : https://github.com/FadiNaaman/Resume-Builder
+... to be completed
 
 <!---
 FadiNaaman/FadiNaaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
